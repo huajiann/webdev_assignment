@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webdev_assignment/static/css/main.9b3f41c1.chunk.css",
+    "main.js": "/webdev_assignment/static/js/main.c98873ea.chunk.js",
+    "main.js.map": "/webdev_assignment/static/js/main.c98873ea.chunk.js.map",
+    "runtime-main.js": "/webdev_assignment/static/js/runtime-main.8583a705.js",
+    "runtime-main.js.map": "/webdev_assignment/static/js/runtime-main.8583a705.js.map",
+    "static/js/2.73c8d12f.chunk.js": "/webdev_assignment/static/js/2.73c8d12f.chunk.js",
+    "static/js/2.73c8d12f.chunk.js.map": "/webdev_assignment/static/js/2.73c8d12f.chunk.js.map",
+    "static/js/3.dc9d9863.chunk.js": "/webdev_assignment/static/js/3.dc9d9863.chunk.js",
+    "static/js/3.dc9d9863.chunk.js.map": "/webdev_assignment/static/js/3.dc9d9863.chunk.js.map",
+    "index.html": "/webdev_assignment/index.html",
+    "static/css/main.9b3f41c1.chunk.css.map": "/webdev_assignment/static/css/main.9b3f41c1.chunk.css.map",
+    "static/js/2.73c8d12f.chunk.js.LICENSE.txt": "/webdev_assignment/static/js/2.73c8d12f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/webdev_assignment/static/media/logo.6ce24c58.svg",
+    "static/media/prof_test.042a3c93.jpeg": "/webdev_assignment/static/media/prof_test.042a3c93.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8583a705.js",
+    "static/js/2.73c8d12f.chunk.js",
+    "static/css/main.9b3f41c1.chunk.css",
+    "static/js/main.c98873ea.chunk.js"
+  ]
+}
